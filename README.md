@@ -1,3 +1,3 @@
 # TextDetector
 
-<img alt="Ezatpanah Text Detector" src="ScreenShot/637581222.png" width="30%">
+<img alt="Ezatpanah Text Detector" src="Screenshot/637581222.png" width="30%">
